@@ -13,8 +13,8 @@ The purpose of the app is to centralize these recommendations in one place, avoi
 
 ## 📱 Screenshots
 <div align="center">
-  <img src=".pictures_and_video//app_photo1.jpg" alt="Home Page" width="45%" style="margin-right: 10px;" />
-  <img src=".pictures_and_video//app_photo2.jpg" alt="Store List" width="45%" />
+  <img src="pictures_and_video/app_photo1.jpg" alt="Home Page" width="45%" style="margin-right: 10px;" />
+  <img src="pictures_and_video/app_photo2.jpg" alt="Store List" width="45%" />
 </div>
 
 ## 📦 APK Download
